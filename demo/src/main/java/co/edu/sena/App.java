@@ -1,6 +1,6 @@
 package co.edu.sena;
 
-import java.util.Scanner; // Importar la clase Scanner para leer la entrada del teclado
+import java.util.Scanner; 
 
 /**
  * Programa para sumar dos números ingresados por el usuario.
