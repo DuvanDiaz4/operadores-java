@@ -49,7 +49,7 @@ public class Main {
         System.out.println("El mayor de los tres números es: " + max);
         System.out.println();
 
-        // Ejemplo 4: Determinar si un año es bisiesto
+        // Ejemplo 4: Determinar si un año es bisiesoo
         System.out.print("Ejemplo 4: Ingrese un año: ");
         int year = scanner.nextInt();
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
