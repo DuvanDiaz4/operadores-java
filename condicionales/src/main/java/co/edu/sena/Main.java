@@ -86,7 +86,7 @@ public class Main {
         }
         System.out.println();
 
-        // Ejemplo 7: Dados dos números A y B, sumarlos si A es menor que B o sino restarlos
+        // Ejemplo 7: Dados dos números A y B, sumarlos si A es menor que B o sino restar
         System.out.print("Ejemplo 7: Ingrese el número A: ");
         int numA7 = scanner.nextInt();
         System.out.print("Ingrese el número B: ");
